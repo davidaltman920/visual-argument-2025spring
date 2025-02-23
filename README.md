@@ -37,7 +37,7 @@ To target (but not guarantee) a grade above a B, the best projects for this unit
 * Use more than 3 distinct overlapping layers
 * Use more than 3 tools beyond select, move, and text that are new to you
   - e.g. Collaborate with the machine by using automated tools/filters/effects (gradients, blur, etc)
-  - e.g. Use layer masks / blend modes for non-destructive extraction, saturation, cross-fades, etc
+  - e.g. Use layer masks / blend modes for non-destructive extraction, saturation, cross-fades (ie. to seamlessly blend images from disparate sources), etc
   - etc.
 <!-- * Alter part of a source image by compositing it with another image to change its meaning (see, e.g. the [globe as ice cream](https://github.com/benmiller314/cdm2021spring/issues/6#issuecomment-781038538), [pillow as pill](https://github.com/benmiller314/cdm2021spring/issues/6#issuecomment-781522661), [ketchup as tomatoes](https://github.com/benmiller314/cdm2020fall/issues/7#issuecomment-698522176), [ocean as carpet](https://github.com/benmiller314/cdm2020fall/issues/7#issuecomment-698534979)) -->
 * Demonstrate through feedback that someone looking at your piece can accurately articulate your message/argument
