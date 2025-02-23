@@ -7,7 +7,7 @@ As with the sound project, the context for your argument is open: you could be m
 As you start planning your composition, consider: What ideas do *you* want help remembering? Or what do you want to persuade others of? Is there something you've noticed that you want to bring to the attention of others? See if any terms or images come to mind when you think of your subject, then work back and forth from image to word and back.
 
 ## Generative constraints
-_to be updated in lesson 12_
+_as affirmed in lesson 12_
 
 ### Baseline Criteria
 For a minimum grade of B, all projects for this unit **must**…
@@ -21,6 +21,7 @@ For a minimum grade of B, all projects for this unit **must**…
 * Use at least 3 layers
 * Use at least 1 tool beyond select, move, and text
 * Use non-default commit messages that say what's changing (and maybe even why)
+* Meet deadlines and requirements from the assignment page (see: reflection with screenshots and at least 500 words, project title in README)
 
 
 ### Aspirational Inspirations
